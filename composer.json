@@ -1,5 +1,11 @@
 {
     "name": "adrianrosalescruz/stepup-saml-bundle",
+    "repositories": [
+        {
+            "url": "git@github.com:adrianrosalescruz/Stepup-saml-bundle.git",
+            "type": "git"
+        }
+    ],
     "type": "symfony-bundle",
     "description": "A Symfony 4 bundle that integrates the simplesamlphp\\saml2 library with Symfony.",
     "keywords": ["surfnet", "StepUp", "simplesamlphp", "SAML", "SAML2"],
