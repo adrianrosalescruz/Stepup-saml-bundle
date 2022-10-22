@@ -1,5 +1,5 @@
 {
-    "name": "surfnet/stepup-saml-bundle",
+    "name": "adrianrosalescruz/stepup-saml-bundle",
     "type": "symfony-bundle",
     "description": "A Symfony 4 bundle that integrates the simplesamlphp\\saml2 library with Symfony.",
     "keywords": ["surfnet", "StepUp", "simplesamlphp", "SAML", "SAML2"],
